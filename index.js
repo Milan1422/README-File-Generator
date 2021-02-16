@@ -40,4 +40,14 @@ inquirer.prompt([
             'None'
         ]
     },
+    {
+        type: 'input',
+        name: 'contactgit',
+        message: 'What is your GitHub username?'
+    },
+    {
+        type: 'input',
+        name: 'contactemail',
+        message: 'What is your email?'
+    },
 ]);
