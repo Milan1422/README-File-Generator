@@ -28,4 +28,16 @@ inquirer.prompt([
         name: 'test',
         message: 'How can someone test this application?'
     },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'What license do you want for this application?',
+        choices: [
+            'Apache License 2.0',
+            'MIT License',
+            'Boost Software License 1.0',
+            'Eclipse Public License',
+            'None'
+        ]
+    },
 ]);
