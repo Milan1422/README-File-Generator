@@ -60,7 +60,15 @@ function promptUser() {
 // README file template
 function mdFileTemplate(data) {
     return `
-    #${data.title}
+# ${data.title}
+
+## Table of Contents
+[Description](#usage)
+[Installation](#installation)
+[Credits](#contribution)
+[Test](#test)
+[License](#license)
+[Contact](#contact)
     `
 }
 
