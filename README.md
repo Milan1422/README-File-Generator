@@ -1,5 +1,5 @@
 
-# README Generator
+# tiele
 
 ## Table of Contents
 
@@ -12,30 +12,30 @@
 
 ## Description
 
-    This application lets the user create a README file to add to their github repositories. They answer a series of questions that will then be portrayed in said file. The md file will have sostyling so that it looks good every time. 
+    sdasd
 
 ## How to install this application.
 
-    In order to run this application the user must have Node installed in their machine. Then after, in your code editor of choice, run terminal on the target folder you want the new md file to be generated. Then type node index.js to begin the application. Follow the prompts and then your file will be generated.
+    acsvasedfarer
 
 ## What is the basic use of this application?
 
-    To create awesome README files.
+    cvsdvcsVasdf
 
 ## Who worked on this proyect?
 
-    Only Jesus Milan for the moment.
+    vasdfsafsadf
 
 ## How can this application be tested?
 
-    On any machine that has node installed.
+    vasdfasdfdas
 
 ## Does this application have a license? If so, which one?
 
-    MIT License
+    Apache License 2.0
 
 ## Questions? How can we get in contact with you?
 
-    Milan1422
-    jmilan.gonzalez@gmail.com
+[GitHub:] https://github.com/Milan1422
+[EMmail:] jmilan.gonzalez@gmail.com
     

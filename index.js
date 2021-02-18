@@ -102,8 +102,8 @@ function mdFileTemplate(data) {
 
 ## Questions? How can we get in contact with you?
 
-    ${data.contactgit}
-    ${data.contactemail}
+[GitHub:] https://github.com/${data.contactgit}
+[Email:] ${data.contactemail}
     `
 }
 
