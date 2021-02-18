@@ -14,6 +14,11 @@ function promptUser() {
         },
         {
             type: 'input',
+            name: 'description',
+            message: 'Give a summary of what this project is about.'
+        },
+        {
+            type: 'input',
             name: 'installation',
             message: 'How can someone install your application?'
         },
@@ -63,12 +68,42 @@ function mdFileTemplate(data) {
 # ${data.title}
 
 ## Table of Contents
-[Description](#usage)
-[Installation](#installation)
-[Credits](#contribution)
-[Test](#test)
-[License](#license)
-[Contact](#contact)
+
+- [Description](#usage)
+- [Installation](#installation)
+- [Credits](#contribution)
+- [Test](#test)
+- [License](#license)
+- [Contact](#contact)
+
+## Description
+
+    ${data.description}
+
+## How to install this application.
+
+    ${data.installation}
+
+## What is the basic use of this application?
+
+    ${data.usage}
+
+## Who worked on this proyect?
+
+    ${data.contribution}
+
+## How can this application be tested?
+
+    ${data.test}
+
+## Does this application have a license? If so, which one?
+
+    ${data.license}
+
+## Questions? How can we get in contact with you?
+
+    ${data.contactgit}
+    ${data.contactemail}
     `
 }
 
