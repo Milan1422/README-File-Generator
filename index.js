@@ -42,10 +42,10 @@ function promptUser() {
             name: 'license',
             message: 'What license do you want for this application?',
             choices: [
-                'Apache License 2.0',
-                'MIT License',
-                'Boost Software License 1.0',
-                'Eclipse Public License',
+                'Apache',
+                'MIT',
+                'MPL',
+                'Boost',
                 'None'
             ]
         },
@@ -98,7 +98,8 @@ function mdFileTemplate(data) {
 
 ## Does this application have a license? If so, which one?
 
-    ${data.license}
+Click on link to see license docs 
+[![License](https://img.shields.io/badge/License-${data.license}%202.0-blue.svg)](https://opensource.org/licenses/${data.license}-2.0)
 
 ## Questions? How can we get in contact with you?
 
