@@ -69,12 +69,13 @@ function mdFileTemplate(data) {
 
 ## Table of Contents
 
-- [Description](#usage)
-- [Installation](#installation)
-- [Credits](#contribution)
-- [Test](#test)
-- [License](#license)
-- [Contact](#contact)
+- [Description](#Description)
+- [Installation](#How-to-install-this-application.)
+- [Basic Use](#What-is-the-basic-use-of-this-application?)
+- [Credits](#Who-worked-on-this-proyect?)
+- [Test](#How-can-this-application-be-tested?)
+- [License](#Does-this-application-have-a-license?-If-so,-which-one?)
+- [Contact](#Questions?-How-can-we-get-in-contact-with-you?)
 
 ## Description
 
