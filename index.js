@@ -34,6 +34,11 @@ function promptUser() {
         },
         {
             type: 'input',
+            name: 'technology',
+            message: 'What technologies were used to make this application?'
+        },
+        {
+            type: 'input',
             name: 'test',
             message: 'How can someone test this application?'
         },
@@ -92,6 +97,10 @@ function mdFileTemplate(data) {
 ## Who worked on this proyect?
 
     ${data.contribution}
+
+## What technologies were used for this application?
+
+    ${data.technology}
 
 ## How can this application be tested?
 
