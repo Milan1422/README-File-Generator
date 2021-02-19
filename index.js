@@ -70,7 +70,7 @@ function promptUser() {
 // README file template
 function mdFileTemplate(data) {
     return `
-# ${data.title}
+<h1 style="text-align: center;">${data.title}</h1>
 
 ## Table of Contents
 

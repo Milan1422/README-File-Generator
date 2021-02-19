@@ -1,5 +1,5 @@
 
-# dfa;skdfa
+<h1 style="text-align: center;">README Generator</h1>
 
 ## Table of Contents
 
@@ -13,23 +13,27 @@
 
 ## Description
 
-    dfhasl;dhflakjsdhflkajsdhlkjhsdajfhaoisuedhfroiauhsdflkajhsdflajhsdflkjahsdlkfjhalkjlkjbcvalkjbsdkljfahsdfhaoeiurhqewiuorhasdhflkajshdlkajhdlkfjahsdfkjahdfasdjklfhalksjdfhasf
+    
 
 ## How to install this application.
 
-    jsdhlakjsdhflkajsdhflakjhsdflkjahsdlkfjahsdkljbalkjbvajbsdlkfjahsdjfkhapsdjhfapwioeurhoieuhfasdjbvlakjsdfghadsa
+    
 
 ## What is the basic use of this application?
 
-    fjzhsdlkjfahsdjfkhasdljfhasldkjhalkjbvclakjsdf
+    
 
 ## Who worked on this proyect?
 
-    fdsfhalskdjfha
+    
+
+## What technologies were used for this application?
+
+    
 
 ## How can this application be tested?
 
-    hsd;fhna;lkjsdhfl;apk
+    
 
 ## Does this application have a license? If so, which one?
 
@@ -38,6 +42,6 @@ Click on link to see license docs
 
 ## Questions? How can we get in contact with you?
 
-[GitHub:] https://github.com/dfka;lskdf
-[Email:] fklasjdf;l
+[GitHub:] https://github.com/
+[Email:] 
     
