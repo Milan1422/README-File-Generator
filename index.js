@@ -123,7 +123,7 @@ async function init() {
     try {
         const data = await promptUser();
         const readMeFile = mdFileTemplate(data);
-        await writeFileAsync("README.md", readMeFile);
+        await writeFileAsync("READMEExample.md", readMeFile);
     } catch (err) {
         console.log(err)
     }
