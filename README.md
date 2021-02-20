@@ -53,6 +53,7 @@ Click on link to see license docs
 
 ![ArrayOfQuestions](imgs/arrayofquestions.png)
 ![ReadmeTemplate](imgs/readmetemplate.png)
+![TerminalPrompts](imgs/prompts.png)
 ![Example](imgs/generatedfile.png)
 
 ## Video Walkthrough
