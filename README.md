@@ -3,13 +3,17 @@
 
 ## Table of Contents
 
-- [Description](#Description)
-- [Installation](#How-to-install-this-application.)
-- [Basic Use](#What-is-the-basic-use-of-this-application?)
-- [Credits](#Who-worked-on-this-proyect?)
-- [Test](#How-can-this-application-be-tested?)
-- [License](#Does-this-application-have-a-license?-If-so,-which-one?)
-- [Contact](#Questions?-How-can-we-get-in-contact-with-you?)
+- [Table of Contents](#table-of-contents)
+- [Description](#description)
+- [How to install this application.](#how-to-install-this-application)
+- [What is the basic use of this application?](#what-is-the-basic-use-of-this-application)
+- [Who worked on this proyect?](#who-worked-on-this-proyect)
+- [What technologies were used for this application?](#what-technologies-were-used-for-this-application)
+- [How can this application be tested?](#how-can-this-application-be-tested)
+- [Does this application have a license? If so, which one?](#does-this-application-have-a-license-if-so-which-one)
+- [Questions? How can we get in contact with you?](#questions-how-can-we-get-in-contact-with-you)
+- [Images of code](#images-of-code)
+- [Video Walkthrough](#video-walkthrough)
 
 ## Description
 
@@ -44,4 +48,15 @@ Click on link to see license docs
 
 [GitHub:] https://github.com/Milan1422
 [Email:] jmilan.gonzalez@gmail.com
+
+## Images of code
+
+![ArrayOfQuestions](imgs/arrayofquestions.png)
+![ReadmeTemplate](imgs/readmetemplate.png)
+![Example](imgs/generatedfile.png)
+
+## Video Walkthrough
+
+[Walkthrough:] https://drive.google.com/file/d/1dB82iKva49HKzqX2Ayhx2dpCfUBFBWF_/view
+
     
